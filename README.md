@@ -234,4 +234,6 @@ Know a better resource? Open a pull request. One line per entry: the link and wh
 
 ⭐ If this helped you, star the repo.
 
+Made by [Mohamed Magdy](https://github.com/mmagdyy1)
+
 </div>
